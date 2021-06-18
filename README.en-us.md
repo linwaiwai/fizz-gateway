@@ -20,7 +20,7 @@ English | [简体中文](./README.md)
 
 ## What 's Fizz Gateway？
 
-A Managerment API Gateway in Java. Fizz Gateway is a Java-based microservice gateway that can realize hot service aggregation, automatic authorization selection, online service script coding, online testing, high-performance routing, API audit management and other purposes. It has a powerful The custom plug-in system can be extended by youself, and provides a friendly graphical configuration interface, which can quickly help enterprises to manage API services, reduce middle layer glue code, reduce coding investment, and improve the stability and security of API services.
+An Aggregation API Gateway in Java . Fizz Gateway is a Java-based microservice gateway that can realize hot service aggregation, automatic authorization selection, online service script coding, online testing, high-performance routing, API audit management and other purposes. It has a powerful The custom plug-in system can be extended by youself, and provides a friendly graphical configuration interface, which can quickly help enterprises to manage API services, reduce middle layer glue code, reduce coding investment, and improve the stability and security of API services.
 
 
 ## Demo
@@ -36,6 +36,10 @@ API access：http://demo.fizzgate.com/proxy/[Service Name]/[API Path]
 ## Fizz's Design
 
 <img width="500" src="https://user-images.githubusercontent.com/184315/97130741-33a90d80-177d-11eb-8680-f589a36e44b3.png" />
+
+## Fizz's typical scene
+
+<img width="90%" src="https://raw.githubusercontent.com/wiki/wehotel/fizz-gateway-community/img/scene.png" />
 
 ## Product Features
 
@@ -218,7 +222,11 @@ Fizz官方技术交流②群（已满）
 
 Fizz官方技术交流③群：512164278
 
-![](https://user-images.githubusercontent.com/184315/97130743-3572d100-177d-11eb-97c8-7599a22c7c04.png)
+<img width="250" src="https://user-images.githubusercontent.com/184315/97130743-3572d100-177d-11eb-97c8-7599a22c7c04.png" />
+
+Fizz offical wechat group
+
+<img width="250" src="http://huomayun.oss-accelerate.aliyuncs.com/huoma/1624630773981.png" />
 
 ## Related acticles
 
